@@ -15,3 +15,6 @@ env/
 
 # Abaikan file database lokal
 *.sqlite3
+
+docs/
+chroma_db/
